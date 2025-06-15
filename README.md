@@ -21,8 +21,10 @@ A full-featured backend API for managing tasks and checklists, built with **Node
 
 https://drive.google.com/file/d/1_PQASSaQd-O6VIJ3hPuqcDrz8MUNq5Uf/view?usp=sharing
 
-## Installation
+### 📦 Installation
 
-git clone
+```bash
+# Clone the repository
+git clone <your-repo-url>
 cd task-checklist-backend
-npm install
+npm run dev
