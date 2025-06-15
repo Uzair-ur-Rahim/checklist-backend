@@ -17,13 +17,12 @@ A full-featured backend API for managing tasks and checklists, built with **Node
 
 **Total Estimated Time:** ~4 hours 30 minutes
 
+## Loom Video For Backend Understanding
+
+https://drive.google.com/file/d/1_PQASSaQd-O6VIJ3hPuqcDrz8MUNq5Uf/view?usp=sharing
 
 ## Installation
 
 git clone
 cd task-checklist-backend
 npm install
-
-## Loom Video for Backend Understanding
-
-https://drive.google.com/file/d/1_PQASSaQd-O6VIJ3hPuqcDrz8MUNq5Uf/view?usp=sharing
